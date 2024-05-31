@@ -1,0 +1,16 @@
+PODS:
+  - NetworkInterface (0.1.0)
+
+DEPENDENCIES:
+  - NetworkInterface (from `../`)
+
+EXTERNAL SOURCES:
+  NetworkInterface:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NetworkInterface: 83bb1ffe052571d31e0e4c115bf1baed81b629f7
+
+PODFILE CHECKSUM: 401b8ffa3600883732ec79263bad0ade04cb6120
+
+COCOAPODS: 1.15.2
